@@ -1,1 +1,4 @@
-console.log("hello my friend !")
+const hello = () => {
+    console.log("hello world!");
+}
+hello();
